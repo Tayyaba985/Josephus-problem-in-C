@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1666434838 source:c:\users\abdul basit\desktop\programming\data structures\assignment 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	"Josephus.h"
+	"Node.h"
+
+1666368487 c:\users\abdul basit\desktop\programming\data structures\assignment 1\josephus.h
+
+1666426380 c:\users\abdul basit\desktop\programming\data structures\assignment 1\node.h
+
+1666368487 source:c:\users\abdul basit\desktop\programming\data structures\assignment 1\josephus.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	"Node.h"
+
